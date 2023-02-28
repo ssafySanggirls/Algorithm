@@ -47,7 +47,5 @@ public class _14510_hm {
 			sb.append("#").append(t).append(" ").append(day).append("\n");
 		}
 		System.out.println(sb);
-
 	}
-
 }
