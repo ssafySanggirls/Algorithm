@@ -9,7 +9,7 @@
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
 |01|:white_large_square:||`SWEA`|4012|요리사||||
-|02|:white_check_mark:||`SWEA`|1288|새로운 불면증 치료법||D2|Backlog/jw/SWEA/Solution_1288.java|
+|02|:white_check_mark:||`SWEA`|1288|새로운 불면증 치료법||D2|[Backlog/jw/SWEA/Solution_1288.java](https://github.com/ssafySanggirls/Algorithm/blob/jw/Backlog/jw/SWEA/Solution_1288.java)|
 
 ## 업보 모음
 
