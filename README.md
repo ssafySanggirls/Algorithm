@@ -18,7 +18,7 @@
 
 <br>
 
-## 📌 계획
+## 📌 진행
 
 ### 진행 방식
 
@@ -30,6 +30,10 @@
 - 노션 : 알고리즘 문제, 코드 리뷰 및 발표 자료 Upload
 - 깃허브 : 알고리즘 코드 커밋
 - 디스코드 : 코드 리뷰 및 발표 진행
+
+<br>
+
+## 📌 계획
 
 <details>
     <summary>2월</summary>
@@ -144,7 +148,8 @@
 
 ## 📌 멤버
 
-| 김수진                                                          | 김정훈                                                          | 변영채                                                            | 손효민                                                           | 연주원                                                            | 임희선                                                            | 조희라                                                            |
+| [김수진](https://github.com/soo0300)                            | [김정훈](https://github.com/jeonghun98)                         | [변영채](https://github.com/byunyc0124)                           | [손효민](https://github.com/SonHyoMin00)                         | [연주원](https://github.com/joo1yeon)                             | [임희선](https://github.com/Im-hass)                              | [조희라](https://github.com/jjoyra)                               |
 | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ![](https://avatars.githubusercontent.com/u/46624130?v=4)       | ![](https://avatars.githubusercontent.com/u/52409864?v=4)       | ![](https://avatars.githubusercontent.com/u/82308415?v=4)         | ![](https://avatars.githubusercontent.com/u/68097374?v=4)        | ![](https://avatars.githubusercontent.com/u/50977497?v=4)         | ![](https://avatars.githubusercontent.com/u/77854486?v=4)         | ![](https://avatars.githubusercontent.com/u/90020798?v=4)         |
 | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=soo0300) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=hun7979) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=byunyc124) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=sondo100) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=azureblue) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=xmfpahdjf) | ![](https://mazassumnida.wtf/api/v2/generate_badge?boj=bunny7531) |
+
