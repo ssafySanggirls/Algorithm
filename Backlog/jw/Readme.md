@@ -8,18 +8,16 @@
 
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-|01|:white_check_mark:|8/5|`SWEA`|4012|요리사|`조합`|모의 SW||
-|02|:white_check_mark:|8/12|`SWEA`|1288|새로운 불면증 치료법|`비트연산`|D2||
-|03|:white_check_mark:|12/31|`BOJ`|2023|신기한 소수|`DFS`|G5|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_2023_%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%86%8C%EC%88%98.java)|
+|001|:white_check_mark:|8/5|`SWEA`|4012|요리사|조합|`모의 SW`||
+|002|:white_check_mark:|8/12|`SWEA`|1288|새로운 불면증 치료법|비트연산|`D2`||
+|003|:white_check_mark:|12/31|`BOJ`|2023|신기한 소수|DFS|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_2023_%EC%8B%A0%EA%B8%B0%ED%95%9C%20%EC%86%8C%EC%88%98.java)|
+|004|:white_check_mark:|12/31|`SWEA`|1233|사칙연산 유효성 검사|구현|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_1233_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.java)|
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
-|----|----|----|----|----|----|----|----|----|
-||:white_large_square:||`BOJ`|1062|가르침||||
-||:white_large_square:||`BOJ`|1158|요세푸스 문제||||
-||:white_large_square:||`SWEA`|1233|사칙연산 유효성 검사||||
+|:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`BOJ`|16926|배열돌리기1||||
 ||:white_large_square:||`BOJ`|16927|배열돌리기2||||
 ||:white_large_square:||`BOJ`|16935|배열돌리기3||||
@@ -60,7 +58,7 @@
 
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
-|----|----|----|----|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`BOJ`|9012|괄호||||
 ||:white_large_square:||`BOJ`|1966|프린터 큐||||
 ||:white_large_square:||`BOJ`|11286|절댓값 힙||||
@@ -132,7 +130,7 @@
 
 **추가 문제**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
-|----|----|----|----|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`SWEA`|10726|이진수 표현||||
 ||:white_large_square:||`SWEA`|1230|암호문3||||
 ||:white_large_square:||`SWEA`|13501|수열 편집||||
@@ -160,7 +158,7 @@
 
 ## 이미 푼 문제
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
-|----|----|----|----|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_check_mark:||`BOJ`|17478|재귀함수가 뭔가요||||
 ||:white_check_mark:||`SWEA`|1289|원재의 메모리 복구하기||||
 ||:white_check_mark:||`BOJ`|15649|N과M(1)||||
@@ -194,3 +192,5 @@
 ||:white_check_mark:||`BOJ`|17070|파이프 옮기기1||||
 ||:white_check_mark:||`BOJ`|12865|평범한 배낭||||
 ||:white_check_mark:||`SWEA`|4014|활주로 건설||||
+||:white_large_square:||`BOJ`|1062|가르침||||
+||:white_large_square:||`BOJ`|1158|요세푸스 문제||||
