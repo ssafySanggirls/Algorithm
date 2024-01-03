@@ -14,13 +14,14 @@
 |004|:white_check_mark:|12/31|`SWEA`|1233|사칙연산 유효성 검사|구현|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_1233_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.java)|
 |005|:white_check_mark:|1/1|`BOJ`|16926|배열돌리기1|구현|`S1`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S1_16926_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java)|
 |006|:white_check_mark:|1/2|`BOJ`|16927|배열돌리기2|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_16927_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%202.java)|
+|007|:white_check_mark:|1/3|`BOJ`|16935|배열돌리기3|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_16935_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%203.java)|
+
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|16935|배열돌리기3||||
 ||:white_large_square:||`SWEA`|5215|햄버거 다이어트||||
 ||:white_large_square:||`BOJ`|17406|배열돌리기4||||
 ||:white_large_square:||`BOJ`|1080|행렬||||
