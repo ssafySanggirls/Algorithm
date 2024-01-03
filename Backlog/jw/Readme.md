@@ -15,6 +15,7 @@
 |005|:white_check_mark:|1/1|`BOJ`|16926|배열돌리기1|구현|`S1`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S1_16926_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java)|
 |006|:white_check_mark:|1/2|`BOJ`|16927|배열돌리기2|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_16927_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%202.java)|
 |007|:white_check_mark:|1/3|`BOJ`|16935|배열돌리기3|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_16935_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%203.java)|
+|008|:white_check_mark:|1/3|`SWEA`|5215|햄버거 다이어트|부분집합|`D3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D3_5215_%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.java)|
 
 
 ## 업보 모음
@@ -22,7 +23,6 @@
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`SWEA`|5215|햄버거 다이어트||||
 ||:white_large_square:||`BOJ`|17406|배열돌리기4||||
 ||:white_large_square:||`BOJ`|1080|행렬||||
 ||:white_large_square:||`BOJ`|2805|나무 자르기||||
