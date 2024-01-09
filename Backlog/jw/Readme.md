@@ -18,6 +18,7 @@
 |008|:white_check_mark:|1/3|`SWEA`|5215|햄버거 다이어트|부분집합|`D3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D3_5215_%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.java)|
 |009|:white_check_mark:|1/4|`BOJ`|17406|배열돌리기4|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17406_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java)|
 |010|:white_check_mark:|1/9|`BOJ`|6987|월드컵|백트래킹|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_6987_%EC%9B%94%EB%93%9C%EC%BB%B5.java)|
+|011|:white_check_mark:|1/9|`SWEA`|1953|탈주범 검거|BFS|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_1953_%ED%83%88%EC%A3%BC%EB%B2%94%20%EA%B2%80%EA%B1%B0.java)|
 
 
 ## 업보 모음
@@ -25,9 +26,6 @@
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|1080|행렬||||
-||:white_large_square:||`BOJ`|2805|나무 자르기||||
-||:white_large_square:||`SWEA`|1953|탈주범 검거||||
 ||:white_large_square:||`SWEA`|1247|최적경로||||
 ||:white_large_square:||`SWEA`|5644|무선 충전||||
 ||:white_large_square:||`BOJ`|1260|DFS와 BFS||||
@@ -193,5 +191,7 @@
 ||:white_check_mark:||`BOJ`|17070|파이프 옮기기1||||
 ||:white_check_mark:||`BOJ`|12865|평범한 배낭||||
 ||:white_check_mark:||`SWEA`|4014|활주로 건설||||
-||:white_large_square:||`BOJ`|1062|가르침||||
-||:white_large_square:||`BOJ`|1158|요세푸스 문제||||
+||:white_check_mark:||`BOJ`|1062|가르침||||
+||:white_check_mark:||`BOJ`|1158|요세푸스 문제||||
+||:white_check_mark:||`BOJ`|1080|행렬||||
+||:white_check_mark:||`BOJ`|2805|나무 자르기||||
