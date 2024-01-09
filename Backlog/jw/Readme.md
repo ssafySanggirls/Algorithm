@@ -17,6 +17,7 @@
 |007|:white_check_mark:|1/3|`BOJ`|16935|배열돌리기3|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_16935_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%203.java)|
 |008|:white_check_mark:|1/3|`SWEA`|5215|햄버거 다이어트|부분집합|`D3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D3_5215_%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8.java)|
 |009|:white_check_mark:|1/4|`BOJ`|17406|배열돌리기4|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17406_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java)|
+|010|:white_check_mark:|1/9|`BOJ`|6987|월드컵|백트래킹|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_6987_%EC%9B%94%EB%93%9C%EC%BB%B5.java)|
 
 
 ## 업보 모음
@@ -27,7 +28,6 @@
 ||:white_large_square:||`BOJ`|1080|행렬||||
 ||:white_large_square:||`BOJ`|2805|나무 자르기||||
 ||:white_large_square:||`SWEA`|1953|탈주범 검거||||
-||:white_large_square:||`BOJ`|6987|월드컵||||
 ||:white_large_square:||`SWEA`|1247|최적경로||||
 ||:white_large_square:||`SWEA`|5644|무선 충전||||
 ||:white_large_square:||`BOJ`|1260|DFS와 BFS||||
