@@ -20,14 +20,13 @@
 |010|:white_check_mark:|1/9|`BOJ`|6987|월드컵|백트래킹|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_6987_%EC%9B%94%EB%93%9C%EC%BB%B5.java)|
 |011|:white_check_mark:|1/9|`SWEA`|1953|탈주범 검거|BFS|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_1953_%ED%83%88%EC%A3%BC%EB%B2%94%20%EA%B2%80%EA%B1%B0.java)|
 |012|:white_check_mark:|1/10|`BOJ`|15683|감시|dfs|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_15683_%EA%B0%90%EC%8B%9C.java)|
-
+|013|:white_check_mark:|1/10|`SWEA`|1247|최적경로|순열|`D5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D5_1247_%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C.java)|
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`SWEA`|1247|최적경로||||
 ||:white_large_square:||`SWEA`|5644|무선 충전||||
 ||:white_large_square:||`SWEA`|3289|서로소 집합||||
 ||:white_large_square:||`SWEA`|7465|창용마을 무리 개수||||
