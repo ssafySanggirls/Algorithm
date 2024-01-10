@@ -19,6 +19,7 @@
 |009|:white_check_mark:|1/4|`BOJ`|17406|배열돌리기4|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17406_%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java)|
 |010|:white_check_mark:|1/9|`BOJ`|6987|월드컵|백트래킹|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_6987_%EC%9B%94%EB%93%9C%EC%BB%B5.java)|
 |011|:white_check_mark:|1/9|`SWEA`|1953|탈주범 검거|BFS|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_1953_%ED%83%88%EC%A3%BC%EB%B2%94%20%EA%B2%80%EA%B1%B0.java)|
+|012|:white_check_mark:|1/10|`BOJ`|15683|감시|dfs|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_15683_%EA%B0%90%EC%8B%9C.java)|
 
 
 ## 업보 모음
@@ -28,10 +29,6 @@
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`SWEA`|1247|최적경로||||
 ||:white_large_square:||`SWEA`|5644|무선 충전||||
-||:white_large_square:||`BOJ`|1260|DFS와 BFS||||
-||:white_large_square:||`BOJ`|13913|숨바꼭질4||||
-||:white_large_square:||`BOJ`|13023|ABCDE||||
-||:white_large_square:||`BOJ`|15683|감시||||
 ||:white_large_square:||`SWEA`|3289|서로소 집합||||
 ||:white_large_square:||`SWEA`|7465|창용마을 무리 개수||||
 ||:white_large_square:||`SWEA`|3124|최소스패닝트리||||
@@ -195,3 +192,6 @@
 ||:white_check_mark:||`BOJ`|1158|요세푸스 문제||||
 ||:white_check_mark:||`BOJ`|1080|행렬||||
 ||:white_check_mark:||`BOJ`|2805|나무 자르기||||
+||:white_check_mark:||`BOJ`|1260|DFS와 BFS||||
+||:white_check_mark:||`BOJ`|13913|숨바꼭질4||||
+||:white_check_mark:||`BOJ`|13023|ABCDE||||
