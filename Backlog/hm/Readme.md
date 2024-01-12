@@ -8,8 +8,10 @@
 
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
-|01|:white_check_mark:|07/12|`BOJ`|10026|적록색약|`BFS` `DFS`|골드5||
-|02|:white_check_mark:|07/12|`BOJ`|1010|다리놓기||실버5||
+| 01  |:white_check_mark:| 07/12 |`BOJ`|10026|적록색약| `BFS` `DFS`   | 골드5 ||
+| 02  |:white_check_mark:| 07/12 |`BOJ`|1010|다리놓기|`-`| 실버5 ||
+| 03  |:white_check_mark:| 01/11 |`SWEA`|1247|최적경로|`순열`|D5||
+| 04  |:white_check_mark:| 01/12 |`BOJ`|6987|월드컵| `브루트포스 알고리즘` `백트래킹`| 골드4 ||
 
 
 ## 업보 모음
@@ -55,7 +57,6 @@
 ||:white_large_square:||`BOJ`|6987|월드컵||||
 ||:white_check_mark:||`BOJ`|3109|빵집||||
 ||:white_check_mark:||`BOJ`|10026|적록색약|`BFS` `DFS`|골드5||
-||:white_large_square:||`SWEA`|1247|최적경로||||
 ||:white_large_square:||`SWEA`|5644|무선 충전||||
 ||:white_check_mark:||`BOJ`|1260|DFS와 BFS||||
 ||:white_check_mark:||`BOJ`|13913|숨바꼭질||||
