@@ -22,17 +22,14 @@
 |012|:white_check_mark:|1/10|`BOJ`|15683|감시|dfs|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_15683_%EA%B0%90%EC%8B%9C.java)|
 |013|:white_check_mark:|1/10|`SWEA`|1247|최적경로|순열|`D5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D5_1247_%EC%B5%9C%EC%A0%81%20%EA%B2%BD%EB%A1%9C.java)|
 |014|:white_check_mark:|1/11|`SWEA`|5644|무선 충전|구현|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_5644_%EB%AC%B4%EC%84%A0%20%EC%B6%A9%EC%A0%84.java)|
+|015|:white_check_mark:|1/15|`SWEA`|3289|서로소 집합|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_3289_%EC%84%9C%EB%A1%9C%EC%86%8C%20%EC%A7%91%ED%95%A9.java)|
+|016|:white_check_mark:|1/15|`SWEA`|7465|창용마을 무리 개수|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_7465_%EC%B0%BD%EC%9A%A9%EB%A7%88%EC%9D%84%20%EB%AC%B4%EB%A6%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`SWEA`|3289|서로소 집합||||
-||:white_large_square:||`SWEA`|7465|창용마을 무리 개수||||
-||:white_large_square:||`SWEA`|3124|최소스패닝트리||||
-||:white_large_square:||`BOJ`|17471|게리맨더링||||
-||:white_large_square:||`BOJ`|1753|최단경로||||
 ||:white_large_square:||`BOJ`|16236|아기상어||||
 ||:white_large_square:||`BOJ`|17144|미세먼지 안녕||||
 ||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
@@ -194,3 +191,6 @@
 ||:white_check_mark:||`BOJ`|1260|DFS와 BFS||||
 ||:white_check_mark:||`BOJ`|13913|숨바꼭질4||||
 ||:white_check_mark:||`BOJ`|13023|ABCDE||||
+||:white_check_mark:||`SWEA`|3124|최소스패닝트리||||
+||:white_check_mark:||`BOJ`|17471|게리맨더링||||
+||:white_check_mark:||`BOJ`|1753|최단경로||||
