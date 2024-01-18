@@ -25,13 +25,13 @@
 |015|:white_check_mark:|1/15|`SWEA`|3289|서로소 집합|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_3289_%EC%84%9C%EB%A1%9C%EC%86%8C%20%EC%A7%91%ED%95%A9.java)|
 |016|:white_check_mark:|1/15|`SWEA`|7465|창용마을 무리 개수|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_7465_%EC%B0%BD%EC%9A%A9%EB%A7%88%EC%9D%84%20%EB%AC%B4%EB%A6%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|
 |017|:white_check_mark:|1/18|`BOJ`|16236|아기상어|우선순위큐|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_16236_%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4.java)|
+|018|:white_check_mark:|1/18|`BOJ`|17144|미세먼지 안녕!|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.java)|
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|17144|미세먼지 안녕||||
 ||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
 ||:white_large_square:||`BOJ`|10844|쉬운 계단 수||||
 ||:white_large_square:||`BOJ`|2225|합분해||||
