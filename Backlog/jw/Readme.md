@@ -33,10 +33,7 @@
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
-||:white_large_square:||`BOJ`|10844|쉬운 계단 수||||
-||:white_large_square:||`BOJ`|2225|합분해||||
 ||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||||
-||:white_large_square:||`BOJ`|14502|연구소||||
 ||:white_large_square:||`BOJ`|4485|녹색 옷 입은 애가 젤다지||||
 ||:white_large_square:||`SWEA`|3307|최장 증가 부분 수열||||
 ||:white_large_square:||`BOJ`|1194|달이 차오른다 가자||||
@@ -44,7 +41,6 @@
 ||:white_large_square:||`BOJ`|9205|맥주 마시면서 걸어가기||||
 ||:white_large_square:||`BOJ`|1786|찾기||||
 ||:white_large_square:||`BOJ`|17472|다리 만들기2||||
-||:white_large_square:||`BOJ`|3055|탈출||||
 ||:white_large_square:||`BOJ`|2098|외판원 순회||||
 
 
@@ -194,3 +190,7 @@
 ||:white_check_mark:||`SWEA`|3124|최소스패닝트리||||
 ||:white_check_mark:||`BOJ`|17471|게리맨더링||||
 ||:white_check_mark:||`BOJ`|1753|최단경로||||
+||:white_check_mark:||`BOJ`|10844|쉬운 계단 수||||
+||:white_check_mark:||`BOJ`|2225|합분해||||
+||:white_check_mark:||`BOJ`|14502|연구소||||
+||:white_check_mark:||`BOJ`|3055|탈출||||
