@@ -51,29 +51,29 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|9012|괄호||||
-||:white_large_square:||`BOJ`|1966|프린터 큐||||
-||:white_large_square:||`BOJ`|11286|절댓값 힙||||
-||:white_large_square:||`BOJ`|2493|탑||||
+||:white_check_mark:||`BOJ`|9012|괄호||||
+||:white_check_mark:||`BOJ`|1966|프린터 큐||||
+||:white_check_mark:||`BOJ`|11286|절댓값 힙||||
+||:white_check_mark:||`BOJ`|2493|탑||||
 ||:white_large_square:||`BOJ`|3190|뱀||||
-||:white_large_square:||`BOJ`|18115|카드 놓기||||
-||:white_large_square:||`BOJ`|10799|쇠막대기||||
+||:white_check_mark:||`BOJ`|18115|카드 놓기||||
+||:white_check_mark:||`BOJ`|10799|쇠막대기||||
 ||:white_large_square:||`BOJ`|6198|옥상 정원 꾸미기||||
-||:white_large_square:||`BOJ`|11866|요세푸스 문제 0||실버5||
-||:white_large_square:||`BOJ`|1655|가운데를 말해요||골드2||
+||:white_check_mark:||`BOJ`|11866|요세푸스 문제 0||||
+||:white_large_square:||`BOJ`|1655|가운데를 말해요||`G2`||
 ||:white_large_square:||`BOJ`|14501|퇴사||||
-||:white_large_square:||`BOJ`|7576|토마토||||
-||:white_large_square:||`BOJ`|14888|연산자 끼워넣기||||
+||:white_check_mark:||`BOJ`|7576|토마토||||
+||:white_check_mark:||`BOJ`|14888|연산자 끼워넣기||||
 ||:white_large_square:||`BOJ`|2617|구슬 찾기||||
 ||:white_large_square:||`BOJ`|2638|치즈||||
 ||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
 ||:white_large_square:||`BOJ`|14510|나무 높이||||
-||:white_large_square:||`BOJ`|17391|무한부스터||||
-||:white_large_square:||`BOJ`|3584|가장 가까운 공통 조상||||
-||:white_large_square:||`BOJ`|14503|로봇 청소기||||
+||:white_check_mark:||`BOJ`|17391|무한부스터||||
+||:white_check_mark:||`BOJ`|3584|가장 가까운 공통 조상||||
+||:white_check_mark:||`BOJ`|14503|로봇 청소기||||
 ||:white_large_square:||`BOJ`|2533|사회망 서비스(SNS)||||
 ||:white_large_square:||`BOJ`|2234|성곽||||
-||:white_large_square:||`BOJ`|14391|종이 조각||||
+||:white_check_mark:||`BOJ`|14391|종이 조각||||
 ||:white_large_square:||`BOJ`|5904|Moo 게임||||
 ||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
 ||:white_large_square:||`BOJ`|15486|퇴사2||||
