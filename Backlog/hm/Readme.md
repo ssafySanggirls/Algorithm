@@ -14,6 +14,7 @@
 | 04  |:white_check_mark:| 01/12 |`BOJ`|6987|월드컵| `브루트포스 알고리즘` `백트래킹` | 골드4 ||
 | 05  |:white_check_mark:| 01/15 |`SWEA`|10726|이진수 표현| `-`                 | D3  ||
 | 06  |:white_check_mark:| 01/16 |`BOJ`|15683|감시| `-`                 | G4  ||
+| 07  |:white_check_mark:| 01/18 |`BOJ`|2234|성곽| `-`                  | G3  ||
 
 ## 업보 모음
 
@@ -58,7 +59,6 @@
 |----|----|----|----|----|----|----|----|----|
 ||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
 ||:white_large_square:||`BOJ`|14510|나무 높이||||
-||:white_large_square:||`BOJ`|2234|성곽||||
 ||:white_large_square:||`BOJ`|14391|종이 조각||||
 ||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
 ||:white_large_square:||`BOJ`|20055|컨베이어 벨트 위의 로봇||||
