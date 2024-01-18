@@ -24,19 +24,16 @@
 |014|:white_check_mark:|1/11|`SWEA`|5644|무선 충전|구현|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_5644_%EB%AC%B4%EC%84%A0%20%EC%B6%A9%EC%A0%84.java)|
 |015|:white_check_mark:|1/15|`SWEA`|3289|서로소 집합|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_3289_%EC%84%9C%EB%A1%9C%EC%86%8C%20%EC%A7%91%ED%95%A9.java)|
 |016|:white_check_mark:|1/15|`SWEA`|7465|창용마을 무리 개수|서로소 집합|`D4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D4_7465_%EC%B0%BD%EC%9A%A9%EB%A7%88%EC%9D%84%20%EB%AC%B4%EB%A6%AC%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|
+|017|:white_check_mark:|1/18|`BOJ`|16236|아기상어|우선순위큐|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_16236_%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4.java)|
+|018|:white_check_mark:|1/18|`BOJ`|17144|미세먼지 안녕!|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.java)|
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|16236|아기상어||||
-||:white_large_square:||`BOJ`|17144|미세먼지 안녕||||
 ||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
-||:white_large_square:||`BOJ`|10844|쉬운 계단 수||||
-||:white_large_square:||`BOJ`|2225|합분해||||
 ||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||||
-||:white_large_square:||`BOJ`|14502|연구소||||
 ||:white_large_square:||`BOJ`|4485|녹색 옷 입은 애가 젤다지||||
 ||:white_large_square:||`SWEA`|3307|최장 증가 부분 수열||||
 ||:white_large_square:||`BOJ`|1194|달이 차오른다 가자||||
@@ -44,36 +41,35 @@
 ||:white_large_square:||`BOJ`|9205|맥주 마시면서 걸어가기||||
 ||:white_large_square:||`BOJ`|1786|찾기||||
 ||:white_large_square:||`BOJ`|17472|다리 만들기2||||
-||:white_large_square:||`BOJ`|3055|탈출||||
 ||:white_large_square:||`BOJ`|2098|외판원 순회||||
 
 
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|9012|괄호||||
-||:white_large_square:||`BOJ`|1966|프린터 큐||||
-||:white_large_square:||`BOJ`|11286|절댓값 힙||||
-||:white_large_square:||`BOJ`|2493|탑||||
+||:white_check_mark:||`BOJ`|9012|괄호||||
+||:white_check_mark:||`BOJ`|1966|프린터 큐||||
+||:white_check_mark:||`BOJ`|11286|절댓값 힙||||
+||:white_check_mark:||`BOJ`|2493|탑||||
 ||:white_large_square:||`BOJ`|3190|뱀||||
-||:white_large_square:||`BOJ`|18115|카드 놓기||||
-||:white_large_square:||`BOJ`|10799|쇠막대기||||
+||:white_check_mark:||`BOJ`|18115|카드 놓기||||
+||:white_check_mark:||`BOJ`|10799|쇠막대기||||
 ||:white_large_square:||`BOJ`|6198|옥상 정원 꾸미기||||
-||:white_large_square:||`BOJ`|11866|요세푸스 문제 0||실버5||
-||:white_large_square:||`BOJ`|1655|가운데를 말해요||골드2||
+||:white_check_mark:||`BOJ`|11866|요세푸스 문제 0||||
+||:white_large_square:||`BOJ`|1655|가운데를 말해요||`G2`||
 ||:white_large_square:||`BOJ`|14501|퇴사||||
-||:white_large_square:||`BOJ`|7576|토마토||||
-||:white_large_square:||`BOJ`|14888|연산자 끼워넣기||||
+||:white_check_mark:||`BOJ`|7576|토마토||||
+||:white_check_mark:||`BOJ`|14888|연산자 끼워넣기||||
 ||:white_large_square:||`BOJ`|2617|구슬 찾기||||
 ||:white_large_square:||`BOJ`|2638|치즈||||
 ||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
 ||:white_large_square:||`BOJ`|14510|나무 높이||||
-||:white_large_square:||`BOJ`|17391|무한부스터||||
-||:white_large_square:||`BOJ`|3584|가장 가까운 공통 조상||||
-||:white_large_square:||`BOJ`|14503|로봇 청소기||||
+||:white_check_mark:||`BOJ`|17391|무한부스터||||
+||:white_check_mark:||`BOJ`|3584|가장 가까운 공통 조상||||
+||:white_check_mark:||`BOJ`|14503|로봇 청소기||||
 ||:white_large_square:||`BOJ`|2533|사회망 서비스(SNS)||||
 ||:white_large_square:||`BOJ`|2234|성곽||||
-||:white_large_square:||`BOJ`|14391|종이 조각||||
+||:white_check_mark:||`BOJ`|14391|종이 조각||||
 ||:white_large_square:||`BOJ`|5904|Moo 게임||||
 ||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
 ||:white_large_square:||`BOJ`|15486|퇴사2||||
@@ -194,3 +190,7 @@
 ||:white_check_mark:||`SWEA`|3124|최소스패닝트리||||
 ||:white_check_mark:||`BOJ`|17471|게리맨더링||||
 ||:white_check_mark:||`BOJ`|1753|최단경로||||
+||:white_check_mark:||`BOJ`|10844|쉬운 계단 수||||
+||:white_check_mark:||`BOJ`|2225|합분해||||
+||:white_check_mark:||`BOJ`|14502|연구소||||
+||:white_check_mark:||`BOJ`|3055|탈출||||
