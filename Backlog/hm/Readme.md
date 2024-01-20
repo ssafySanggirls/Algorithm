@@ -15,6 +15,7 @@
 | 05  |:white_check_mark:| 01/15 |`SWEA`|10726|이진수 표현| `-`                 | D3  ||
 | 06  |:white_check_mark:| 01/16 |`BOJ`|15683|감시| `-`                 | G4  ||
 | 07  |:white_check_mark:| 01/18 |`BOJ`|2234|성곽| `-`                  | G3  ||
+| 08  |:white_check_mark:| 01/18 |`BOJ`|16935|배열돌리기3|`-` | G2  ||
 
 ## 업보 모음
 
@@ -31,7 +32,6 @@
 ||:white_large_square:||`SWEA`|1228|암호문1||||
 ||:white_large_square:||`SWEA`|1233|사칙연산 유효성 검사||||
 ||:white_large_square:||`SWEA`|1861|정사각형 방||||
-||:white_large_square:||`BOJ`|16935|배열돌리기3||||
 ||:white_large_square:||`SWEA`|6808|규영이와 인영이의 카드게임||||
 ||:white_large_square:||`SWEA`|5215|햄버거 다이어트||||
 ||:white_large_square:||`BOJ`|17406|배열돌리기4||||
