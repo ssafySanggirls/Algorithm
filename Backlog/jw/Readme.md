@@ -34,14 +34,12 @@
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
-||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||||
-||:white_large_square:||`SWEA`|3307|최장 증가 부분 수열||||
-||:white_large_square:||`BOJ`|1194|달이 차오른다 가자||||
-||:white_large_square:||`SWEA`|1263|사람 네트워크2||||
-||:white_large_square:||`BOJ`|1786|찾기||||
-||:white_large_square:||`BOJ`|17472|다리 만들기2||||
-||:white_large_square:||`BOJ`|2098|외판원 순회||||
+||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||`모의 SW`||
+||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||`G3`||
+||:white_large_square:||`BOJ`|1194|달이 차오른다, 가자.||`G1`||
+||:white_large_square:||`BOJ`|1786|찾기||`P5`||
+||:white_large_square:||`BOJ`|17472|다리 만들기2||`G1`||
+||:white_large_square:||`BOJ`|2098|외판원 순회||`G1`||
 
 
 **스터디**
@@ -170,13 +168,13 @@
 ||:white_check_mark:||`BOJ`|15686|치킨배달||||
 ||:white_check_mark:||`BOJ`|1074|Z||||
 ||:white_check_mark:||`BOJ`|3109|빵집||||
-||:white_check_mark:||`BOJ`|10226|적록색약|`BFS` `DFS`|골드5||
+||:white_check_mark:||`BOJ`|10226|적록색약|BFS, DFS|`G5`||
 ||:white_check_mark:||`BOJ`|17135|캐슬디펜스||||
 ||:white_check_mark:||`BOJ`|17143|낚시왕||||
 ||:white_check_mark:||`BOJ`|7569|토마토||||
 ||:white_check_mark:||`BOJ`|17281|⚾||||
 ||:white_check_mark:||`BOJ`|1463|1로 만들기||||
-||:white_check_mark:||`BOJ`|1010|다리놓기||실버5||
+||:white_check_mark:||`BOJ`|1010|다리놓기||`S5`||
 ||:white_check_mark:||`BOJ`|17070|파이프 옮기기1||||
 ||:white_check_mark:||`BOJ`|12865|평범한 배낭||||
 ||:white_check_mark:||`SWEA`|4014|활주로 건설||||
@@ -194,3 +192,5 @@
 ||:white_check_mark:||`BOJ`|2225|합분해||||
 ||:white_check_mark:||`BOJ`|14502|연구소||||
 ||:white_check_mark:||`BOJ`|3055|탈출||||
+||:white_check_mark:||`SWEA`|3307|최장 증가 부분 수열||`D3`||
+||:white_check_mark:||`SWEA`|1263|사람 네트워크2||`D6`||
