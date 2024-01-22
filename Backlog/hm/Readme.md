@@ -16,8 +16,9 @@
 | 06  |:white_check_mark:| 01/16 |`BOJ`|15683|감시| `-`                 | G4  ||
 | 07  |:white_check_mark:| 01/18 |`BOJ`|2234|성곽| `-`                 | G3  ||
 | 08  |:white_check_mark:| 01/20 |`BOJ`|16935|배열돌리기3| `-`                 | G5  ||
-| 09  |:white_check_mark:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                 | G4  ||
+| 09  |:white_check_mark:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                  | G4  ||
 | 10  |:white_check_mark:| 01/22 |`BOJ`|20055|컨베이어 벨트 위의 로봇| `-`                  | G5  ||
+
 
 ## 업보 모음
 
