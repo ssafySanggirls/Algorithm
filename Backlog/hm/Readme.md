@@ -16,49 +16,25 @@
 | 06  |:white_check_mark:| 01/16 |`BOJ`|15683|감시| `-`                 | G4  ||
 | 07  |:white_check_mark:| 01/18 |`BOJ`|2234|성곽| `-`                 | G3  ||
 | 08  |:white_check_mark:| 01/20 |`BOJ`|16935|배열돌리기3| `-`                 | G5  ||
-| 09  |:white_large_square:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                  | G4  ||
+| 09  |:white_check_mark:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                  | G4  ||
 
 ## 업보 모음
 
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
-||:white_large_square:||`SWEA`|1289|원재의 메모리 복구하기||||
-||:white_large_square:||`SWEA`|1210|Ladder1||||
-||:white_large_square:||`SWEA`|1208|Flatten||||
-||:white_large_square:||`SWEA`|2805|농작물 수확하기||||
-||:white_large_square:||`SWEA`|4012|요리사||||
-||:white_large_square:||`SWEA`|1218|괄호 짝짓기||||
-||:white_large_square:||`SWEA`|1225|암호 생성기||||
-||:white_large_square:||`SWEA`|1228|암호문1||||
-||:white_large_square:||`SWEA`|1233|사칙연산 유효성 검사||||
-||:white_large_square:||`SWEA`|1861|정사각형 방||||
-||:white_large_square:||`SWEA`|6808|규영이와 인영이의 카드게임||||
-||:white_large_square:||`SWEA`|5215|햄버거 다이어트||||
-||:white_large_square:||`SWEA`|1953|탈주범 검거||||
-||:white_large_square:||`SWEA`|5644|무선 충전||||
 ||:white_large_square:||`BOJ`|17135|캐슬디펜스||||
 ||:white_large_square:||`BOJ`|15683|감시||||
-||:white_large_square:||`SWEA`|3289|서로소 집합||||
-||:white_large_square:||`SWEA`|7465|창용마을 무리 개수||||
-||:white_large_square:||`SWEA`|3124|최소스패닝트리||||
-||:white_large_square:||`SWEA`|5658|보물상자 비밀번호||||
 ||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||||
-||:white_large_square:||`SWEA`|3307|최장 증가 부분 수열||||
 ||:white_large_square:||`BOJ`|1194|달이 차오른다 가자||||
-||:white_large_square:||`SWEA`|1263|사람 네트워크2||||
 ||:white_large_square:||`BOJ`|9205|맥주 마시면서 걸어가기||||
 ||:white_large_square:||`BOJ`|1786|찾기||||
 ||:white_large_square:||`BOJ`|17472|다리 만들기2||||
-||:white_large_square:||`SWEA`|4014|활주로 건설||||
 ||:white_large_square:||`BOJ`|2098|외판원 순회||||
-
 
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
-||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
-||:white_large_square:||`BOJ`|14510|나무 높이||||
 ||:white_large_square:||`BOJ`|14391|종이 조각||||
 ||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
 ||:white_large_square:||`BOJ`|20055|컨베이어 벨트 위의 로봇||||
@@ -92,7 +68,6 @@
 **추가 문제**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
-||:white_large_square:||`SWEA`|1288|새로운 불면증 치료법||||
 ||:white_large_square:||`SWEA`|1230|암호문3||||
 ||:white_large_square:||`SWEA`|13501|수열 편집||||
 ||:white_large_square:||`SWEA`|3316|동아리실 관리하기||||
@@ -193,8 +168,32 @@
 ||:white_check_mark:||`BOJ`|2002|추월||||
 ||:white_check_mark:||`BOJ`|1504|특정한 최단 경로||||
 ||:white_check_mark:||`BOJ`|2206|벽 부수고 이동하기||||
+||:white_check_mark:||`SWEA`|1289|원재의 메모리 복구하기||||
+||:white_check_mark:||`SWEA`|1210|Ladder1||||
+||:white_check_mark:||`SWEA`|1208|Flatten||||
+||:white_check_mark:||`SWEA`|2805|농작물 수확하기||||
+||:white_check_mark:||`SWEA`|4012|요리사||||
+||:white_check_mark:||`SWEA`|1218|괄호 짝짓기||||
+||:white_check_mark:||`SWEA`|1225|암호 생성기||||
+||:white_check_mark:||`SWEA`|1228|암호문1||||
+||:white_check_mark:||`SWEA`|1233|사칙연산 유효성 검사||||
+||:white_check_mark:||`SWEA`|1861|정사각형 방||||
+||:white_check_mark:||`SWEA`|6808|규영이와 인영이의 카드게임||||
+||:white_check_mark:||`SWEA`|5215|햄버거 다이어트||||
+||:white_check_mark:||`SWEA`|1953|탈주범 검거||||
+||:white_check_mark:||`SWEA`|5644|무선 충전||||
+||:white_check_mark:||`SWEA`|3289|서로소 집합||||
+||:white_check_mark:||`SWEA`|7465|창용마을 무리 개수||||
+||:white_check_mark:||`SWEA`|3124|최소스패닝트리||||
+||:white_check_mark:||`SWEA`|5658|보물상자 비밀번호||||
+||:white_check_mark:||`SWEA`|3307|최장 증가 부분 수열||||
+||:white_check_mark:||`SWEA`|1263|사람 네트워크2||||
+||:white_check_mark:||`SWEA`|4014|활주로 건설||||
 ||:white_check_mark:||`BOJ`|1918|후위표기||||
 ||:white_check_mark:||`BOJ`|1806|부분 합||||
 ||:white_check_mark:||`BOJ`|16398|행성 연결||||
 ||:white_check_mark:||`BOJ`|1005|ACM Craft||||
 ||:white_check_mark:||`BOJ`|2473|세 용액||||
+||:white_check_mark:||`SWEA`|1288|새로운 불면증 치료법||||
+||:white_check_mark:||`SWEA`|1767|프로세서 연결하기||||
+||:white_check_mark:||`SWEA`|14510|나무 높이||||
