@@ -7,12 +7,6 @@ class Solution {
     static int N, K;
     static HashSet<String> set;
     static Integer[] decimal;
-    static final int A = 10;
-    static final int B = 11;
-    static final int C = 12;
-    static final int D = 13;
-    static final int E = 14;
-    static final int F = 15;
 
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
