@@ -16,7 +16,8 @@
 | 06  |:white_check_mark:| 01/16 |`BOJ`|15683|감시| `-`                 | G4  ||
 | 07  |:white_check_mark:| 01/18 |`BOJ`|2234|성곽| `-`                 | G3  ||
 | 08  |:white_check_mark:| 01/20 |`BOJ`|16935|배열돌리기3| `-`                 | G5  ||
-| 09  |:white_check_mark:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                  | G4  ||
+| 09  |:white_check_mark:| 01/20 | `BOJ` |17406|배열돌리기4| `_`                 | G4  ||
+| 10  |:white_check_mark:| 01/22 |`BOJ`|20055|컨베이어 벨트 위의 로봇| `-`                  | G5  ||
 
 ## 업보 모음
 
@@ -36,7 +37,6 @@
 |----|----|----|----|----|----|----|----|----|
 ||:white_large_square:||`BOJ`|14391|종이 조각||||
 ||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
-||:white_large_square:||`BOJ`|20055|컨베이어 벨트 위의 로봇||||
 ||:white_large_square:||`BOJ`|20056|마법사 상어와 파이어볼||||
 ||:white_large_square:||`BOJ`|19539|사과나무||||
 ||:white_large_square:||`BOJ`|1938|통나무 옮기기||||
