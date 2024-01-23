@@ -6,6 +6,8 @@
 
 ### 업보 청산
 
+**수업**
+
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 |001|:white_check_mark:|8/5|`SWEA`|4012|요리사|조합|`모의 SW`||
@@ -29,7 +31,15 @@
 |019|:white_check_mark:|1/20|`BOJ`|4485|녹색 옷 입은 애가 젤다지?|BFS|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_4485_%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80%3F.java)|
 |020|:white_check_mark:|1/21|`BOJ`|9205|맥주 마시면서 걸어가기|BFS|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_9205_%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.java)|
 |021|:white_check_mark:|1/22|`SWEA`|5658|보물상자 비밀번호|구현|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_5658_%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java)|
+
+**스터디**
+
+|번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
+|:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 |022|:white_check_mark:|1/23|`BOJ`|3190|뱀|BFS|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_3190_%EB%B1%80.java)|
+|023|:white_check_mark:|1/23|`BOJ`|6198|옥상 정원 꾸미기|스택|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/commit/7a944fa3d2cf19da5267c141d63c2b97e8939248)|
+
+<br>
 
 ## 업보 모음
 
@@ -46,7 +56,6 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|6198|옥상 정원 꾸미기||||
 ||:white_large_square:||`BOJ`|1655|가운데를 말해요||`G2`||
 ||:white_large_square:||`BOJ`|14501|퇴사||||
 ||:white_large_square:||`BOJ`|2617|구슬 찾기||||
