@@ -39,6 +39,8 @@
 |022|:white_check_mark:|1/23|`BOJ`|3190|뱀|BFS|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_3190_%EB%B1%80.java)|
 |023|:white_check_mark:|1/23|`BOJ`|6198|옥상 정원 꾸미기|스택|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/commit/7a944fa3d2cf19da5267c141d63c2b97e8939248)|
 |024|:white_check_mark:|1/25|`BOJ`|1655|가운데를 말해요|우선순위큐|`G2`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G2_1655_%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%20%EB%A7%90%ED%95%B4%EC%9A%94.java)|
+|025|:white_check_mark:|1/25|`BOJ`|14501|퇴사|DFS, DP|`S3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S3_14501_%ED%87%B4%EC%82%AC.java)|
+|026|:white_check_mark:|1/29|`BOJ`|2617|구슬 찾기|플로이드 워셜|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_2617_%EA%B5%AC%EC%8A%AC%20%EC%B0%BE%EA%B8%B0.java)|
 
 <br>
 
@@ -57,8 +59,6 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|14501|퇴사||||
-||:white_large_square:||`BOJ`|2617|구슬 찾기||||
 ||:white_large_square:||`BOJ`|2638|치즈||||
 ||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
 ||:white_large_square:||`BOJ`|14510|나무 높이||||
