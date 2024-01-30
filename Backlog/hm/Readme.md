@@ -22,7 +22,9 @@
 | 12 |:white_check_mark:| 01/23 |`BOJ`|2374|같은 수로 만들기| `-`                 | G4 ||
 | 13 |:white_check_mark:| 01/24 |`BOJ`|19539|사과나무| `-`                 | G5 ||
 | 14 |:white_check_mark:| 01/25 |`BOJ`|20056|마법사 상어와 파이어볼| `-`                 | G4 ||
-| 15 |:white_check_mark:| 01/26 |`BOJ`|1938|통나무 옮기기| `-`                    | G2  ||
+| 15 |:white_check_mark:| 01/26 |`BOJ`|1938|통나무 옮기기| `-`                 | G2 ||
+| 16 |:white_check_mark:| 01/30 |`BOJ`|1865|웜홀| `-`                 | G3 ||
+| 17 |:white_check_mark:| 01/30 |`BOJ`|16890|창업| `-`                  | G1 ||
 
 
 ## 업보 모음
@@ -41,9 +43,7 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |----|----|----|----|----|----|----|----|----|
-||:white_large_square:||`BOJ`|16890|창업||||
 ||:white_large_square:||`BOJ`|19236|청소년 상어||||
-||:white_large_square:||`BOJ`|1865|웜홀||||
 ||:white_large_square:||`BOJ`|1486|등산||||
 ||:white_large_square:||`BOJ`|1562|계단수||||
 ||:white_large_square:||`BOJ`|1208|부분수열의 합2||||
