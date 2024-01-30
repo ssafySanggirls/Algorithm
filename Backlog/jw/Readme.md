@@ -42,6 +42,7 @@
 |025|:white_check_mark:|1/25|`BOJ`|14501|퇴사|DFS, DP|`S3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S3_14501_%ED%87%B4%EC%82%AC.java)|
 |026|:white_check_mark:|1/29|`BOJ`|2617|구슬 찾기|플로이드 워셜|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_2617_%EA%B5%AC%EC%8A%AC%20%EC%B0%BE%EA%B8%B0.java)|
 |027|:white_check_mark:|1/30|`BOJ`|2638|치즈|BFS|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2638_%EC%B9%98%EC%A6%88.java)|
+|028|:white_check_mark:|1/31|`BOJ`|14510|나무 높이|구현|`D2`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/D2_14510_%EB%82%98%EB%AC%B4%20%EB%86%92%EC%9D%B4.java)|
 
 <br>
 
@@ -60,8 +61,6 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`SWEA`|1767|프로세서 연결하기||||
-||:white_large_square:||`BOJ`|14510|나무 높이||||
 ||:white_large_square:||`BOJ`|2533|사회망 서비스(SNS)||||
 ||:white_large_square:||`BOJ`|2234|성곽||||
 ||:white_large_square:||`BOJ`|5904|Moo 게임||||
@@ -211,3 +210,4 @@
 ||:white_check_mark:||`BOJ`|3584|가장 가까운 공통 조상||||
 ||:white_check_mark:||`BOJ`|14503|로봇 청소기||||
 ||:white_check_mark:||`BOJ`|14391|종이 조각||||
+||:white_check_mark:||`SWEA`|1767|프로세서 연결하기||||
