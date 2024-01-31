@@ -24,7 +24,8 @@
 | 14 |:white_check_mark:| 01/25 |`BOJ`|20056|마법사 상어와 파이어볼| `-`                 | G4 ||
 | 15 |:white_check_mark:| 01/26 |`BOJ`|1938|통나무 옮기기| `-`                 | G2 ||
 | 16 |:white_check_mark:| 01/30 |`BOJ`|1865|웜홀| `-`                 | G3 ||
-| 17 |:white_check_mark:| 01/30 |`BOJ`|16890|창업| `-`                  | G1 ||
+| 17 |:white_check_mark:| 01/30 |`BOJ`|16890|창업| `-`                 | G1 ||
+| 18 |:white_check_mark:| 01/31 |`BOJ`|9205|맥주 마시면서 걸어가기| `-`                  | G5 ||
 
 
 ## 업보 모음
@@ -35,7 +36,6 @@
 ||:white_large_square:||`BOJ`|17135|캐슬디펜스||||
 ||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||||
 ||:white_large_square:||`BOJ`|1194|달이 차오른다 가자||||
-||:white_large_square:||`BOJ`|9205|맥주 마시면서 걸어가기||||
 ||:white_large_square:||`BOJ`|1786|찾기||||
 ||:white_large_square:||`BOJ`|17472|다리 만들기2||||
 ||:white_large_square:||`BOJ`|2098|외판원 순회||||
