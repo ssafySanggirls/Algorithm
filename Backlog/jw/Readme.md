@@ -46,6 +46,7 @@
 |029|:white_check_mark:|1/31|`BOJ`|2533|사회망 서비스(SNS)|DP|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2533_%EC%82%AC%ED%9A%8C%EB%A7%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4(SNS).java)|
 |030|:white_check_mark:|1/31|`BOJ`|2234|성곽|BFS, 비트마스킹|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2234_%EC%84%B1%EA%B3%BD.java)|
 |031|:white_check_mark:|2/2|`BOJ`|5904|Moo 게임|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_5904_Moo%20%EA%B2%8C%EC%9E%84.java)|
+|032|:white_check_mark:|2/2|`BOJ`|2374|같은 수로 만들기|스택|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_2374_%EA%B0%99%EC%9D%80%20%EC%88%98%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
 
 <br>
 
@@ -64,7 +65,6 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|2374|같은 수로 만들기||||
 ||:white_large_square:||`BOJ`|15486|퇴사2||||
 ||:white_large_square:||`BOJ`|3085|사탕 게임||||
 ||:white_large_square:||`BOJ`|14719|빗물||||
