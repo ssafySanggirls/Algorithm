@@ -48,6 +48,7 @@
 |031|:white_check_mark:|2/2|`BOJ`|5904|Moo 게임|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_5904_Moo%20%EA%B2%8C%EC%9E%84.java)|
 |032|:white_check_mark:|2/2|`BOJ`|2374|같은 수로 만들기|스택|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_2374_%EA%B0%99%EC%9D%80%20%EC%88%98%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
 |033|:white_check_mark:|2/5|`BOJ`|15486|퇴사2|DP|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_15486_퇴사2.java)|
+|034|:white_check_mark:|2/7|`BOJ`|3085|사탕 게임|완전탐색|`S2`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S2_3085_%EC%82%AC%ED%83%95%20%EA%B2%8C%EC%9E%84.java)|
 
 <br>
 
@@ -66,14 +67,9 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|3085|사탕 게임||||
-||:white_large_square:||`BOJ`|14719|빗물||||
 ||:white_large_square:||`BOJ`|20055|컨베이어 벨트 위의 로봇||||
-||:white_large_square:||`BOJ`|11725|트리의 부모 찾기||||
 ||:white_large_square:||`BOJ`|20056|마법사 상어와 파이어볼||||
-||:white_large_square:||`BOJ`|2178|미로 탐색||||
 ||:white_large_square:||`BOJ`|19539|사과나무||||
-||:white_large_square:||`BOJ`|1938|통나무 옮기기||||
 ||:white_large_square:||`BOJ`|16890|창업||||
 ||:white_large_square:||`BOJ`|19236|청소년 상어||||
 ||:white_large_square:||`BOJ`|15565|귀여운 라이언||||
@@ -211,3 +207,7 @@
 ||:white_check_mark:||`BOJ`|14503|로봇 청소기||||
 ||:white_check_mark:||`BOJ`|14391|종이 조각||||
 ||:white_check_mark:||`SWEA`|1767|프로세서 연결하기||||
+||:white_check_mark:||`BOJ`|14719|빗물||||
+||:white_check_mark:||`BOJ`|11725|트리의 부모 찾기||||
+||:white_check_mark:||`BOJ`|2178|미로 탐색||||
+||:white_check_mark:||`BOJ`|1938|통나무 옮기기||||
