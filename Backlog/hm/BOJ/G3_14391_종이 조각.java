@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class G3_14391_종이조각 {
+public class G3_14391_종이 조각 {
 
 	static int N, M, ans=Integer.MIN_VALUE;
 	static int[][] map;
