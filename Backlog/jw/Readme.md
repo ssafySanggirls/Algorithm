@@ -50,6 +50,7 @@
 |033|:white_check_mark:|2/5|`BOJ`|15486|퇴사2|DP|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_15486_퇴사2.java)|
 |034|:white_check_mark:|2/7|`BOJ`|3085|사탕 게임|완전탐색|`S2`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S2_3085_%EC%82%AC%ED%83%95%20%EA%B2%8C%EC%9E%84.java)|
 |035|:white_check_mark:|2/19|`BOJ`|20055|컨베이어 벨트 위의 로봇|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%20%EB%B2%A8%ED%8A%B8%20%EC%9C%84%EC%9D%98%20%EB%A1%9C%EB%B4%87.java)|
+|036|:white_check_mark:|3/3|`BOJ`|20056|마법사 상어와 파이어볼|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_20056_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC.java)|
 
 <br>
 
@@ -68,7 +69,6 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|20056|마법사 상어와 파이어볼||||
 ||:white_large_square:||`BOJ`|19539|사과나무||||
 ||:white_large_square:||`BOJ`|16890|창업||||
 ||:white_large_square:||`BOJ`|19236|청소년 상어||||
