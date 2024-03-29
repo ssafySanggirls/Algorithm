@@ -53,6 +53,7 @@
 |036|:white_check_mark:|3/3|`BOJ`|20056|마법사 상어와 파이어볼|구현|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_20056_%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC.java)|
 |037|:white_check_mark:|3/6|`BOJ`|19539|사과나무|구현|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_19539_%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4.java)|
 |038|:white_check_mark:|3/21|`BOJ`|15565|귀여운 라이언|투 포인터|`S1`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/S1_15565_%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.java)|
+|039|:white_check_mark:|3/30|`BOJ`|11779|최소비용 구하기2|다익스트라|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.java)|
 
 <br>
 
@@ -73,7 +74,6 @@
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
 ||:white_large_square:||`BOJ`|16890|창업||||
 ||:white_large_square:||`BOJ`|19236|청소년 상어||||
-||:white_large_square:||`BOJ`|11779|최소비용 구하기2||||
 ||:white_large_square:||`BOJ`|1238|파티||||
 ||:white_large_square:||`BOJ`|1865|웜홀||||
 ||:white_large_square:||`BOJ`|1486|등산||||
