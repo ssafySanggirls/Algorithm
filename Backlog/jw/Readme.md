@@ -73,36 +73,36 @@
 **스터디**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|16890|창업||||
-||:white_large_square:||`BOJ`|19236|청소년 상어||||
-||:white_large_square:||`BOJ`|1238|파티||||
-||:white_large_square:||`BOJ`|1865|웜홀||||
-||:white_large_square:||`BOJ`|1486|등산||||
-||:white_large_square:||`BOJ`|2002|추월||||
-||:white_large_square:||`BOJ`|1504|특정한 최단 경로||||
-||:white_large_square:||`BOJ`|2206|벽 부수고 이동하기||||
-||:white_large_square:||`BOJ`|1918|후위표기||||
-||:white_large_square:||`BOJ`|1562|계단수||||
-||:white_large_square:||`BOJ`|1806|부분 합||||
-||:white_large_square:||`BOJ`|16398|행성 연결||||
-||:white_large_square:||`BOJ`|2473|세 용액||||
-||:white_large_square:||`BOJ`|1208|부분수열의 합2||||
-||:white_large_square:||`BOJ`|8983|사냥꾼||||
-||:white_large_square:||`BOJ`|1477|휴게소 세우기||||
-||:white_large_square:||`BOJ`|1939|중량제한||||
-||:white_large_square:||`BOJ`|2917|늑대 사냥꾼||||
-||:white_large_square:||`BOJ`|2623|음악프로그램||||
-||:white_large_square:||`BOJ`|10282|해킹||||
-||:white_large_square:||`BOJ`|1774|우주신과의 교감||||
-||:white_large_square:||`BOJ`|1949|우수마을||||
-||:white_large_square:||`BOJ`|16946|벽 부수고 이동하기 4||||
-||:white_large_square:||`BOJ`|2263|트리의 순회||||
-||:white_large_square:||`BOJ`|17404|RGB거리 2||||
-||:white_large_square:||`BOJ`|9252|LCS 2||||
-||:white_large_square:||`BOJ`|2616|소형기관차||||
-||:white_large_square:||`BOJ`|4386|별자리 만들기||||
-||:white_large_square:||`BOJ`|1135|뉴스 전하기||||
-||:white_large_square:||`BOJ`|9527|1의 개수 세기||||
+||:white_large_square:||`BOJ`|16890|창업||`G1`||
+||:white_large_square:||`BOJ`|19236|청소년 상어||`G2`||
+||:white_large_square:||`BOJ`|1238|파티||`G3`||
+||:white_large_square:||`BOJ`|1865|웜홀||`G3`||
+||:white_large_square:||`BOJ`|1486|등산||`G2`||
+||:white_large_square:||`BOJ`|2002|추월||`S1`||
+||:white_large_square:||`BOJ`|1504|특정한 최단 경로||`G4`||
+||:white_large_square:||`BOJ`|2206|벽 부수고 이동하기||`G3`||
+||:white_large_square:||`BOJ`|1918|후위표기||`G2`||
+||:white_large_square:||`BOJ`|1562|계단수||`G1`||
+||:white_large_square:||`BOJ`|1806|부분 합||`G4`||
+||:white_large_square:||`BOJ`|16398|행성 연결||`G4`||
+||:white_large_square:||`BOJ`|2473|세 용액||`G3`||
+||:white_large_square:||`BOJ`|1208|부분수열의 합2||`G1`||
+||:white_large_square:||`BOJ`|8983|사냥꾼||`G4`||
+||:white_large_square:||`BOJ`|1477|휴게소 세우기||`G4`||
+||:white_large_square:||`BOJ`|1939|중량제한||`G3`||
+||:white_large_square:||`BOJ`|2917|늑대 사냥꾼||`G2`||
+||:white_large_square:||`BOJ`|2623|음악프로그램||`G3`||
+||:white_large_square:||`BOJ`|10282|해킹||`G4`||
+||:white_large_square:||`BOJ`|1774|우주신과의 교감||`G3`||
+||:white_large_square:||`BOJ`|1949|우수마을||`G2`||
+||:white_large_square:||`BOJ`|16946|벽 부수고 이동하기 4||`G2`||
+||:white_large_square:||`BOJ`|2263|트리의 순회||`G1`||
+||:white_large_square:||`BOJ`|17404|RGB거리 2||`G4`||
+||:white_large_square:||`BOJ`|9252|LCS 2||`G4`||
+||:white_large_square:||`BOJ`|2616|소형기관차||`G3`||
+||:white_large_square:||`BOJ`|4386|별자리 만들기||`G3`||
+||:white_large_square:||`BOJ`|1135|뉴스 전하기||`G2`||
+||:white_large_square:||`BOJ`|9527|1의 개수 세기||`G2`||
 
 
 **추가 문제**
