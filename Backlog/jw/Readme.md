@@ -56,6 +56,7 @@
 |039|:white_check_mark:|3/30|`BOJ`|11779|최소비용 구하기2|다익스트라|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.java)|
 |040|:white_check_mark:|6/23|`BOJ`|1005|ACM Craft|위상 정렬|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_1005_ACM%20Craft.java)|
 |041|:white_check_mark:|6/23|`BOJ`|1806|부분 합|투 포인터|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_1806_%EB%B6%80%EB%B6%84%ED%95%A9.java)|
+|042|:white_check_mark:|6/25|`BOJ`|1504|특정한 최단 경로|다익스트라|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.java)|
 
 <br>
 
@@ -80,7 +81,6 @@
 ||:white_large_square:||`BOJ`|1865|웜홀||`G3`||
 ||:white_large_square:||`BOJ`|1486|등산||`G2`||
 ||:white_large_square:||`BOJ`|2002|추월||`S1`||
-||:white_large_square:||`BOJ`|1504|특정한 최단 경로||`G4`||
 ||:white_large_square:||`BOJ`|2206|벽 부수고 이동하기||`G3`||
 ||:white_large_square:||`BOJ`|1918|후위표기||`G2`||
 ||:white_large_square:||`BOJ`|1562|계단수||`G1`||
