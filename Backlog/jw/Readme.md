@@ -57,6 +57,7 @@
 |040|:white_check_mark:|6/23|`BOJ`|1005|ACM Craft|위상 정렬|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_1005_ACM%20Craft.java)|
 |041|:white_check_mark:|6/23|`BOJ`|1806|부분 합|투 포인터|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_1806_%EB%B6%80%EB%B6%84%ED%95%A9.java)|
 |042|:white_check_mark:|6/25|`BOJ`|1504|특정한 최단 경로|다익스트라|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_1504_%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.java)|
+|043|:white_check_mark:|6/25|`BOJ`|10282|해킹|다익스트라|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_10282_%ED%95%B4%ED%82%B9.java)|
 
 <br>
 
@@ -92,7 +93,6 @@
 ||:white_large_square:||`BOJ`|1939|중량제한||`G3`||
 ||:white_large_square:||`BOJ`|2917|늑대 사냥꾼||`G2`||
 ||:white_large_square:||`BOJ`|2623|음악프로그램||`G3`||
-||:white_large_square:||`BOJ`|10282|해킹||`G4`||
 ||:white_large_square:||`BOJ`|1774|우주신과의 교감||`G3`||
 ||:white_large_square:||`BOJ`|1949|우수마을||`G2`||
 ||:white_large_square:||`BOJ`|16946|벽 부수고 이동하기 4||`G2`||
