@@ -60,6 +60,7 @@
 |043|:white_check_mark:|6/25|`BOJ`|10282|해킹|다익스트라|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_10282_%ED%95%B4%ED%82%B9.java)|
 |044|:white_check_mark:|6/26|`BOJ`|1238|파티|다익스트라|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_1238_%ED%8C%8C%ED%8B%B0.java)|
 |045|:white_check_mark:|6/26|`BOJ`|2473|세 용액|투 포인터|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2473_%EC%84%B8%20%EC%9A%A9%EC%95%A1.java)|
+|046|:white_check_mark:|10/07|`BOJ`|2206|벽 부수고 이동하기|BFS|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2206_%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java)|
 
 <br>
 
@@ -83,7 +84,6 @@
 ||:white_large_square:||`BOJ`|1865|웜홀||`G3`||
 ||:white_large_square:||`BOJ`|1486|등산||`G2`||
 ||:white_large_square:||`BOJ`|2002|추월||`S1`||
-||:white_large_square:||`BOJ`|2206|벽 부수고 이동하기||`G3`||
 ||:white_large_square:||`BOJ`|1918|후위표기||`G2`||
 ||:white_large_square:||`BOJ`|1562|계단수||`G1`||
 ||:white_large_square:||`BOJ`|16398|행성 연결||`G4`||
