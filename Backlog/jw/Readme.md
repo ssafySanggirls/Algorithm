@@ -31,6 +31,7 @@
 |019|:white_check_mark:|1/20|`BOJ`|4485|녹색 옷 입은 애가 젤다지?|BFS|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_4485_%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80%3F.java)|
 |020|:white_check_mark:|1/21|`BOJ`|9205|맥주 마시면서 걸어가기|BFS|`G5`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G5_9205_%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.java)|
 |021|:white_check_mark:|1/22|`SWEA`|5658|보물상자 비밀번호|구현|`모의 SW`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/SWEA/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8_5658_%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java)|
+|047|:white_check_mark:|10/07|`BOJ`|1600|말이 되고픈 원숭이|BFS|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_1600_%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4.java)|
 
 **스터디**
 
@@ -69,7 +70,6 @@
 **수업**
 |번호|진행상태|날짜|구분|문제 번호|제목|알고리즘 분류|레벨|제출 경로|
 |:----:|:----:|:----:|:----:|:----:|----|:----:|:----:|:----:|
-||:white_large_square:||`BOJ`|1600|말이 되고픈 원숭이||`G3`||
 ||:white_large_square:||`BOJ`|1194|달이 차오른다, 가자.||`G1`||
 ||:white_large_square:||`BOJ`|1786|찾기||`P5`||
 ||:white_large_square:||`BOJ`|17472|다리 만들기2||`G1`||
