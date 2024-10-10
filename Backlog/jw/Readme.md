@@ -62,6 +62,7 @@
 |044|:white_check_mark:|6/26|`BOJ`|1238|파티|다익스트라|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_1238_%ED%8C%8C%ED%8B%B0.java)|
 |045|:white_check_mark:|6/26|`BOJ`|2473|세 용액|투 포인터|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2473_%EC%84%B8%20%EC%9A%A9%EC%95%A1.java)|
 |046|:white_check_mark:|10/07|`BOJ`|2206|벽 부수고 이동하기|BFS|`G3`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G3_2206_%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java)|
+|048|:white_check_mark:|10/10|`BOJ`|16398|행성 연결|크루스칼|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_16398_%ED%96%89%EC%84%B1%20%EC%97%B0%EA%B2%B0.java)|
 
 <br>
 
@@ -86,7 +87,6 @@
 ||:white_large_square:||`BOJ`|2002|추월||`S1`||
 ||:white_large_square:||`BOJ`|1918|후위표기||`G2`||
 ||:white_large_square:||`BOJ`|1562|계단수||`G1`||
-||:white_large_square:||`BOJ`|16398|행성 연결||`G4`||
 ||:white_large_square:||`BOJ`|1208|부분수열의 합2||`G1`||
 ||:white_large_square:||`BOJ`|8983|사냥꾼||`G4`||
 ||:white_large_square:||`BOJ`|1477|휴게소 세우기||`G4`||
