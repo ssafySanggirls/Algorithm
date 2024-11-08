@@ -65,6 +65,7 @@
 |048|:white_check_mark:|10/10|`BOJ`|16398|행성 연결|크루스칼|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_16398_%ED%96%89%EC%84%B1%20%EC%97%B0%EA%B2%B0.java)|
 |049|:white_check_mark:|10/23|`BOJ`|1477|휴게소 세우기|이분탐색|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_1477_%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%B8%EC%9A%B0%EA%B8%B0.java)|
 |050|:white_check_mark:|11/01|`BOJ`|17404|RGB거리 2|DP|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G4_17404_RGB%EA%B1%B0%EB%A6%AC%202.java)|
+|051|:white_check_mark:|11/08|`BOJ`|9252|LCS 2|DP|`G4`|[URL](https://github.com/ssafySanggirls/Algorithm/blob/main/Backlog/jw/BOJ/G2_1655_%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%20%EB%A7%90%ED%95%B4%EC%9A%94.java)|
 
 <br>
 
@@ -98,7 +99,6 @@
 ||:white_large_square:||`BOJ`|1949|우수마을||`G2`||
 ||:white_large_square:||`BOJ`|16946|벽 부수고 이동하기 4||`G2`||
 ||:white_large_square:||`BOJ`|2263|트리의 순회||`G1`||
-||:white_large_square:||`BOJ`|9252|LCS 2||`G4`||
 ||:white_large_square:||`BOJ`|2616|소형기관차||`G3`||
 ||:white_large_square:||`BOJ`|4386|별자리 만들기||`G3`||
 ||:white_large_square:||`BOJ`|1135|뉴스 전하기||`G2`||
